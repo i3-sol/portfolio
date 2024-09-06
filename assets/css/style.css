@@ -1246,7 +1246,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .clients-item { min-width: calc(33.33% - 10px); }
 
-
+  .info-content .detail {
+    padding-top: 15px;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+  }
 
   /**
    * #PORTFOLIO, BLOG 
